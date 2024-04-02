@@ -29,3 +29,5 @@ git status
 git add .
 git status
 git status
+ls --color=auto
+clear
