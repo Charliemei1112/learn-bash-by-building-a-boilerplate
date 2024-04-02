@@ -27,3 +27,5 @@ git pull
 git config pull.rebase false
 git status
 git add .
+git status
+git status
